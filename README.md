@@ -1,5 +1,4 @@
 # BRI-M-token
-js
 ![1658047233080](https://user-images.githubusercontent.com/106289142/215231806-2396fb78-e790-485d-a7bf-5654ea6553cf.jpg)
 ![bgindex](https://user-images.githubusercontent.com/106289142/215231809-3da31f2d-6131-4da0-a11a-eb20a58f27c8.jpg)
 ![bglog](https://user-images.githubusercontent.com/106289142/215231812-45ed95fd-1ad0-4a55-979e-25d82871a156.jpg)
